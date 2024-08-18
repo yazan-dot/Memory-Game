@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Memory-Game/static/css/main.7dcd8285.css",
+    "main.js": "/Memory-Game/static/js/main.bc1325b3.js",
+    "static/media/African_fun_long.mp3": "/Memory-Game/static/media/African_fun_long.5493919c5c3a38980fe5.mp3",
+    "static/media/6.png": "/Memory-Game/static/media/6.52baf37db50be3bac175.png",
+    "static/media/zapsplat_multimedia_game_sound_fanfare_orchestral_strings_harp_glockenspeil_finished_complete_success_109635.mp3": "/Memory-Game/static/media/zapsplat_multimedia_game_sound_fanfare_orchestral_strings_harp_glockenspeil_finished_complete_success_109635.1f8b092b480e7fe3fc61.mp3",
+    "static/media/cartoon_fail_trumpet_002.mp3": "/Memory-Game/static/media/cartoon_fail_trumpet_002.a3c9d90d23b5b39d5834.mp3",
+    "static/media/match 2.png": "/Memory-Game/static/media/match 2.03d0a5fe0cfa7f70e463.png",
+    "static/media/testBg.jpg": "/Memory-Game/static/media/testBg.ee47237c6cd3843966f7.jpg",
+    "static/media/5.png": "/Memory-Game/static/media/5.4a23a96bdf0251ecbba8.png",
+    "static/media/7.png": "/Memory-Game/static/media/7.10abef5b48b085c544db.png",
+    "static/media/1.png": "/Memory-Game/static/media/1.e6d8067d27cb5448fb9e.png",
+    "static/media/app_alert_tone_036.mp3": "/Memory-Game/static/media/app_alert_tone_036.bec3421de6bbee6051fa.mp3",
+    "static/media/8.png": "/Memory-Game/static/media/8.92b680469f26431d9f93.png",
+    "static/media/match 1.png": "/Memory-Game/static/media/match 1.712cd45ab3d079d20917.png",
+    "static/media/3.png": "/Memory-Game/static/media/3.fba1cdf6e5475e85d355.png",
+    "static/media/zapsplat_multimedia_game_sound_percussive_negative_lose_fail_003_63679.mp3": "/Memory-Game/static/media/zapsplat_multimedia_game_sound_percussive_negative_lose_fail_003_63679.875cbb0eed358942c7ea.mp3",
+    "static/media/4.png": "/Memory-Game/static/media/4.501a8cbbcd11732865c9.png",
+    "static/media/2.png": "/Memory-Game/static/media/2.8f7caa5f7d3dd9d9760d.png",
+    "static/media/zapsplat_foley_paper_sheets_x3_construction_sugar_set_down_on_surface_001_42007.mp3": "/Memory-Game/static/media/zapsplat_foley_paper_sheets_x3_construction_sugar_set_down_on_surface_001_42007.fa536d6f0ba8d9a32817.mp3",
+    "static/media/zapsplat_multimedia_game_sound_click_selection_menu_002_73512.mp3": "/Memory-Game/static/media/zapsplat_multimedia_game_sound_click_selection_menu_002_73512.94fb3b1ca4a353c929aa.mp3",
+    "index.html": "/Memory-Game/index.html",
+    "main.7dcd8285.css.map": "/Memory-Game/static/css/main.7dcd8285.css.map",
+    "main.bc1325b3.js.map": "/Memory-Game/static/js/main.bc1325b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7dcd8285.css",
+    "static/js/main.bc1325b3.js"
+  ]
+}
