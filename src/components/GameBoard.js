@@ -59,8 +59,8 @@ export default function GameBoard({
   }
   function mainSetting(one, two) {
     if (Math.abs(one) === Math.abs(two)) {
-      setRemoveBox((prevRemoveBox) => [...prevRemoveBox, one, two]);
-      setNumArray((prev) => [...prev, one, two]);
+      setRemoveBox((prevRemoveBox) => [...prevRemoveBox, one, two]); // اذا صح بشيل البوكس من الللعبة
+      setNumArray((prev) => [...prev, one, two]); // تشيك اذا فزت او لا حسب اللينث
       matchCard();
     } else {
       setMistake();

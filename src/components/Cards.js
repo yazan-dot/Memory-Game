@@ -7,7 +7,7 @@ export default function Cards({
 }) {
   let mainClass = "front";
   let secondClass = "front active";
-  let removedClass = "box removed";
+  let removedClass = "box front-done";
 
   let boxes = shuffledArray.map((e, index) => (
     <div
@@ -20,6 +20,7 @@ export default function Cards({
         className={
           activeCards.includes(e.id) || showCards ? secondClass : mainClass
         }
+        // تذكر المشكلة اللي واجهتك لما حطيت الشرط  ترو كان يفتح كل الكروت و لما حليتها حطيت الستيت يساوي الاي دوت الايدي
       >
         <span>?</span>
       </div>

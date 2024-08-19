@@ -233,7 +233,7 @@ main {
   height: 70px;
   background-color: rgb(100 181 246);
   position: relative;
-  top: -76px;
+  top: -77px;
   /* cursor: pointer; */
 }
 .front span {
@@ -255,9 +255,26 @@ main {
   pointer-events: none;
 }
 
-.box.removed {
-  display: none;
+.box.front-done {
   pointer-events: none;
+}
+.box.front-done .front {
+  background: linear-gradient(45deg, #ff6b6b, #f7d794, #55efc4, #1e90ff);
+  animation: anDone 6s ease infinite;
+}
+@keyframes anDone {
+  0% {
+    background-position: 0% 0%;
+  }
+  50% {
+    background-position: 100% 100%;
+  }
+  100% {
+    background-position: 0% 0%;
+  }
+}
+.box.front-done .front span {
+  display: none;
 }
 .game-over {
   position: absolute;
