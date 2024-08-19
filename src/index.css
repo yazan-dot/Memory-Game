@@ -321,8 +321,8 @@ main {
 }
 @media (max-width: 768px) {
   main {
-    width: 377px;
-    height: 480px;
+    height: 505px;
+    width: 350px;
   }
   .game-over {
     width: 377px;
@@ -333,14 +333,15 @@ main {
     padding: 18px 2px;
   }
   .img-start-game img {
-    width: 377px;
-    height: 480px;
+    height: 330px;
+        width: 350px;
   }
   .edit-level-details {
     display: flex;
   }
   .box {
     height: 55px;
+    width: 95px;
   }
   .box img {
     width: 55px;
